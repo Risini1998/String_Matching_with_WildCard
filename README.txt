@@ -18,8 +18,8 @@
 
  USAGE
  ---------------------------------
- -Download 19001215.zip file any where on your computer.
- -Extract files in zip file.
+ -Download files any where on your computer.
+ -Extract Test.zip file in same folder.
  -Download and install Dev-C++ application to your PC(Already have in PC this not need)
   (Download Dev-C++ - https://sourceforge.net/projects/orwelldevcpp/)
  -Open application.cpp file in 19001215 folder with Dev-C++.
